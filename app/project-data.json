@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Customer Portal Refresh",
+      "owner": "Avery Chen",
+      "status": "On Track",
+      "recentActivity": "Completed usability review and moved the account overview flow into final QA.",
+      "priority": "High"
+    },
+    {
+      "name": "Mobile Analytics Rollout",
+      "owner": "Jordan Patel",
+      "status": "At Risk",
+      "recentActivity": "Data export latency is above target while the team tunes the event pipeline.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Billing API Migration",
+      "owner": "Sam Rivera",
+      "status": "Blocked",
+      "recentActivity": "Waiting on vendor sandbox credentials before integration testing can resume.",
+      "priority": "High"
+    },
+    {
+      "name": "Support Knowledge Base",
+      "owner": "Taylor Morgan",
+      "status": "Complete",
+      "recentActivity": "Published revised onboarding articles and archived outdated release notes.",
+      "priority": "Low"
+    },
+    {
+      "name": "Security Training Campaign",
+      "owner": "Riley Brooks",
+      "status": "On Track",
+      "recentActivity": "Pilot cohort finished module one with a 96 percent completion rate.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Partner Sandbox Cleanup",
+      "owner": "Morgan Lee",
+      "status": "At Risk",
+      "recentActivity": "Legacy test accounts were inventoried; deletion approvals are still pending.",
+      "priority": "Low"
+    }
+  ]
+}
